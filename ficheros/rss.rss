@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	 <channel>
+		 <title>Sindicacion de Contenidos</title>
+		 <atom:link href=" https://gaby170.github.io/Rss-Atom/rss.rss" rel="self" type="application/rss+xml"/>
+		 <link> https://gaby170.github.io/Rss-Atom/</link>
+		 <description>Canal de la tarea Sindicacion de Contenidos</description>
+		 <language>ES</language>
+		 <image>
+			 <title>Sindicacion de Contenidos</title>
+			 <url> https://gaby170.github.io/Rss-Atom/</url>
+			 <link>https://infelicitous-resolu.000webhostapp.com/</link>
+			 <width>140</width>
+			 <height>100</height>
+			 <description>Logo Web</description>
+		 </image>
+
+		 <item>
+		 	<title>Tiempo de La Gomera</title>
+		 	<link>https://www.tiempo.es/santa_cruz_de_tenerife-hermigua-es0st0021.html</link>
+			 <guid>https://www.tiempo.es/santa_cruz_de_tenerife-hermigua-es0st0021.html</guid>
+		 	<description>Nos muestra el tiempo en La Gomera a traves de la web www.eltiempo24.es</description>
+		 </item>
+
+		 <item>
+		 	<title>Sindicacion</title>
+		 	<link> https://siempreaprendiendo2.000webhostapp.com/site/coches.html</link>
+			 <guid>https://siempreaprendiendo2.000webhostapp.com/site/coches.html</guid>
+		 	<description>Descripcion de la actividad</description>
+		 </item>
+
+		 <item>
+		 	<title>La campeona olímpica Van Rouwendaal</title>
+		 	<link>https://www.elmundo.es/deportes/mas-deporte/2020/03/29/5e80c326fc6c830c198b4595.html</link>
+			 <guid>https://www.elmundo.es/deportes/mas-deporte/2020/03/29/5e80c326fc6c830c198b4595.html</guid>
+		 	<description>Este aticulo trata de su entrenamiento en una piscina hinchable</description>
+		 </item>
+	 </channel>
+</rss>
