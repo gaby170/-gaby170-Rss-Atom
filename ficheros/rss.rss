@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	 <channel>
 		 <title>Sindicacion de Contenidos</title>
-		 <atom:link href=" https://gaby170.github.io/Rss-Atom/rss.rss" rel="self" type="application/rss+xml"/>
-		 <link> https://gaby170.github.io/Rss-Atom/</link>
+		 <atom:link href="https://gaby170.github.io/-gaby170-Rss-Atom/rss.rss" rel="self" type="application/rss+xml"/>
+		 <link>https://gaby170.github.io/-gaby170-Rss-Atom/</link>
 		 <description>Canal de la tarea Sindicacion de Contenidos</description>
 		 <language>ES</language>
 		 <image>
 			 <title>Sindicacion de Contenidos</title>
-			 <url> https://gaby170.github.io/Rss-Atom/</url>
-			 <link>https://infelicitous-resolu.000webhostapp.com/</link>
+			 <url>https://gaby170.github.io/-gaby170-Rss-Atom/</url>
+			 <link>https://gaby170.github.io/-gaby170-Rss-Atom/</link>
 			 <width>140</width>
 			 <height>100</height>
 			 <description>Logo Web</description>
